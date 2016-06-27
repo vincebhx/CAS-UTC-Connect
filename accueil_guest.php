@@ -4,6 +4,6 @@
   <meta charset='utf-8'/>
 </head>
 <body>
-  <a href="<?php echo $accessPath."?section=login"; ?>">Connexion CAS</a>
+  <a href="<?php echo $myUrl."?section=login"; ?>">Connexion CAS</a>
 </body>
 </html>

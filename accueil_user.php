@@ -24,6 +24,6 @@
     </tr>
   </table>
   <br/>
-  <a href="<?php echo $accessPath.'index.php?section=logout';?>">Déconnexion</a>
+  <a href="<?php echo $myUrl.'index.php?section=logout';?>">Déconnexion</a>
 </body>
 </html>
